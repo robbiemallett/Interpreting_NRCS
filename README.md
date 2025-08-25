@@ -1,3 +1,3 @@
-This repository contains code and data to reproduce "Interpreting the altimetric radar cross section of young sea ice".
+This repository contains code and data to reproduce analysis contained within "Interpreting the altimetric radar cross section of young sea ice".
 
-Details to follow, prior to submission.
+This is a paper currently in preparation - details to follow.
